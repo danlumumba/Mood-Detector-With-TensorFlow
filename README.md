@@ -1,6 +1,6 @@
 # Mood-Detector-With-TensorFlow
 A deep learning model for real-time mood detection from facial images.
-#  Facial Emotion Recognition for Mental Wellness Monitoring
+#  MOOD DETECTOR FOR MENTAL WELLNESS MONITORING
 
 ---
 
@@ -8,9 +8,9 @@ A deep learning model for real-time mood detection from facial images.
 
 Emotional wellbeing plays a vital role in overall mental health, yet it remains difficult to monitor—especially in digital environments. With the rise of mobile mental wellness apps and AI-based virtual therapy, there is a growing need for systems that can detect and respond to human emotions in real-time.
 
-Facial Emotion Recognition (FER) offers a non-intrusive and intuitive way to understand emotional states by analyzing facial expressions. Emotions such as happiness, sadness, anger, and neutrality can provide valuable insight into a user’s mental state. When integrated into wellness platforms, FER systems can personalize content, guide empathetic chatbot responses, and even trigger alerts when distress is detected.
+Mood Detector  offers a non-intrusive and intuitive way to understand emotional states by analyzing facial expressions. Emotions such as happiness, sadness, anger, and neutrality can provide valuable insight into a user’s mental state. When integrated into wellness platforms, mood detector systems can personalize content, guide empathetic chatbot responses, and even trigger alerts when distress is detected.
 
-This project builds an end-to-end FER system tailored for mental wellness applications, combining computer vision, deep learning, and ethical AI practices to deliver emotionally intelligent feedback in real-time.
+This project builds an end-to-end mood detector  system tailored for mental wellness applications, combining computer vision, deep learning, and ethical AI practices to deliver emotionally intelligent feedback in real-time.
 
 ---
 
@@ -33,7 +33,7 @@ A new solution is needed—one that is **accurate, real-time, ethical, and expla
 
 ##  Project Objective
 
-The primary objective of this project is to **develop and deploy a real-time facial emotion recognition system** that supports **mental wellness monitoring**, with the following goals:
+The primary objective of this project is to **develop and deploy a real-time mood detector system** that supports **mental wellness monitoring**, with the following goals:
 
 -  Accurately detect key facial emotions (Happy, Sad, Angry, Neutral)
 -  Integrate with wellness apps to enhance emotional context and personalization
